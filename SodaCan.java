@@ -1,4 +1,5 @@
-
+//Justin Calma
+//CECS 274
 public class SodaCan {
 	private int height;
 	private int radius;
