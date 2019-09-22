@@ -4,6 +4,7 @@ public class SodaCan {
 	private int height;
 	private int radius;
 	
+	//sets height of SodaCan
 	public void setHeight(int inputHeight) {
 		height = inputHeight;
 	}
